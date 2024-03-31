@@ -1,2 +1,2 @@
 # CPSC323-Project-1
-# Authors: Robbie Robertson,
+# Authors: Robbie Robertson, Jeffrey Rivera, Chris Bonilla
